@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+daiva_env/
+*.env
+
+# Vosk model (large files)
+vosk-model-small-en-us-0.15/
+*.zip
+
+# VSCode
+.vscode/

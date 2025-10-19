@@ -12,7 +12,7 @@ It integrates **voice control**, **smart navigation**, **emotion detection**, **
 * Secure onboarding for new users using OTP verification.
 * Personalized setup for drivers, ensuring data privacy and security.
 
-### 🧾 2. Persistent Memory
+###  2. Persistent Memory
 
 * DAIVA remembers user preferences, contacts, home address, phone number, and commonly used commands.
 * Stores data locally and securely for offline use.
@@ -60,7 +60,7 @@ It integrates **voice control**, **smart navigation**, **emotion detection**, **
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone Repository
 
